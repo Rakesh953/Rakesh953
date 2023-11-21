@@ -1,5 +1,3 @@
-
-<!--
 **Rakesh953/Rakesh953** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <!-- Your Name and Introduction -->
 <h1 align="center">Hi there, I'm Rakesh Meher! 👋</h1>
 
