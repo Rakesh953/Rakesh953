@@ -1,6 +1,6 @@
 
 <!--
-**gopal-jogi/gopal-jogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gopal-jogi/Rakesh Meher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Your Name and Introduction -->
-<h1 align="center">Hi there, I'm Gopal Jogi! 👋</h1>
+<h1 align="center">Hi there, I'm Rakesh Meher! 👋</h1>
 
 I'm a passionate Python Developer from Banglore. Welcome to my GitHub profile!
 
@@ -42,11 +42,12 @@ I'm a passionate Python Developer from Banglore. Welcome to my GitHub profile!
 
 <!-- What You're Currently Learning -->
 ## 🌱 I’m currently learning...
-- Exploring DevOps practices and tools 🛠️
-- Enhancing my skills in automation and CI/CD pipelines 🤖
+- Python Full-Stack Development 🛠️
+- Game Development with Unity and C# 🎮
+- AI Tools 🤖
 
 ## 👥 I'm looking to collaborate on...
-- Open-source projects related to DevOps and automation 🌐
+- Open-source projects related to Web Development or Game development(With Unity) 🌐🎮
 - Building tools to simplify software development workflows ⚙️
 - Exploring innovative solutions for continuous integration and delivery 🚚
 
