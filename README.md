@@ -45,7 +45,6 @@ I'm a passionate Python Developer from Banglore. Welcome to my GitHub profile!
 <!-- What You're Currently Learning -->
 ## 🌱 I’m currently learning...
 - Python Full-Stack Development 🛠️
-- Game Development with Unity and C# 🎮
 - AI Tools 🤖
 
 ## 👥 I'm looking to collaborate on...
