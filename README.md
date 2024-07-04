@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- Your Name and Introduction -->
+<!-- Your Name and Introduction --> 
 <h1 align="center">Hi there, I'm Rakesh Meher! 👋</h1>
 
 I'm a passionate Python Developer from Banglore. Welcome to my GitHub profile!
