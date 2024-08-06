@@ -77,3 +77,54 @@ Did you know coding is both an art and a science? 🎨🧪
 
 Feel free to explore my repositories and don't hesitate to reach out! Happy coding! 🚀
 
+
+
+
+
+# Hi there, I'm Rakesh Meher!
+
+I'm a passionate Python Developer from Bangalore. Welcome to my GitHub profile!
+
+## Technologies & Tools
+
+- **Languages**: Python, HTML5, CSS3, JavaScript
+- **Frameworks**: Bootstrap, Django
+- **Databases**: MySQL
+- **Tools**: Git, GitHub, Visual Studio Code, Coding
+
+## I’m currently learning...
+
+- Python Full-Stack Development
+- AI Tools
+
+## I'm looking to collaborate on...
+
+- Open-source projects related to Web Development or Game development (with Unity)
+- Building tools to simplify software development workflows
+- Exploring innovative solutions for continuous integration and delivery
+
+## Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/rakesh953)
+- [Hackerrank](https://www.hackerrank.com/profile/rakeshmeher953)
+
+## ⚡ Fun Facts
+
+- I love to code and explore new technologies
+- Enjoying a cup of coffee while coding is my favorite ritual ☕
+- Ask me about my latest coding challenge and I'll share the story
+
+## Repositories
+
+Here are some of my public repositories:
+
+1. [Netflix_Clone-github.io](https://github.com/Rakesh953/Netflix_Clone-github.io) - HTML
+2. [Internship-_WhatsApp-Web-Automation](https://github.com/Rakesh953/Internship-_WhatsApp-Web-Automation) - JavaScript
+3. [Cube_Runner_Game_Unity](https://github.com/Rakesh953/Cube_Runner_Game_Unity) - C#
+4. [Python_Programs](https://github.com/Rakesh953/Python_Programs) - Python
+5. [Rakesh953](https://github.com/Rakesh953/Rakesh953)
+6. [Tic-Tac-Toe_Game](https://github.com/Rakesh953/Tic-Tac-Toe_Game) - JavaScript
+
+Feel free to explore my repositories and don't hesitate to reach out! Happy coding!
+
+
