@@ -90,6 +90,36 @@ Here are some of my public repositories:
 5. [Rakesh953](https://github.com/Rakesh953/Rakesh953)
 6. [Tic-Tac-Toe_Game](https://github.com/Rakesh953/Tic-Tac-Toe_Game) - JavaScript
 
+
+
+## Django Learning Series
+
+Here are the projects in my Django learning series:
+
+1. [Django_01_First_Project](https://github.com/Rakesh953/Django_01_First_Project)
+2. [Django_Project_2_creating_multiple_view](https://github.com/Rakesh953/Django_Project_2_creating_multiple_view)
+3. [Django_project3](https://github.com/Rakesh953/Django_project3)
+4. [Django_project4.1_Generic_URL_mapping](https://github.com/Rakesh953/Django_project4.1_Generic_URL_mapping)
+5. [Django_project5_creating_templates](https://github.com/Rakesh953/Django_project5_creating_templates)
+6. [Django_project6](https://github.com/Rakesh953/Django_project6)
+7. [Django_project7](https://github.com/Rakesh953/Django_project7)
+8. [Django_project8_Generic_URL_Navigation](https://github.com/Rakesh953/Django_project8_Generic_URL_Navigation)
+9. [Django_project9](https://github.com/Rakesh953/Django_project9)
+10. [Django_project10_staticfile_connection](https://github.com/Rakesh953/Django_project10_staticfile_connection)
+11. [Django_project11](https://github.com/Rakesh953/Django_project11)
+12. [Django_project12](https://github.com/Rakesh953/Django_project12)
+13. [Django_project13](https://github.com/Rakesh953/Django_project13)
+14. [Django_project14_templates_inheritance](https://github.com/Rakesh953/Django_project14_templates_inheritance)
+15. [Django_project15](https://github.com/Rakesh953/Django_project15)
+16. [Django_project16_Creating_Model_dept_emp](https://github.com/Rakesh953/Django_project16_Creating_Model_dept_emp)
+17. [Django_Project17_creating_models_taking_data_by_Backend](https://github.com/Rakesh953/Django_Project17_creating_models_taking_data_by_Backend)
+18. [Django_Project18_retrieving_BE_frontEnd](https://github.com/Rakesh953/Django_Project18_retrieving_BE_frontEnd)
+19. [Django_Project19_retrieving_Techniques](https://github.com/Rakesh953/Django_Project19_retrieving_Techniques)
+20. [Django_project20_joining_Model_dept_emp_inner_join](https://github.com/Rakesh953/Django_project20_joining_Model_dept_emp_inner_join)
+21. [Django_project21](https://github.com/Rakesh953/Django_project21)
+
+Feel free to explore my repositories and don't hesitate to reach out! Happy coding!
+
 Feel free to explore my repositories and don't hesitate to reach out! Happy coding!
 
 
