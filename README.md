@@ -79,41 +79,6 @@ Feel free to explore my repositories and don't hesitate to reach out! Happy codi
 
 
 
-
-
-# Hi there, I'm Rakesh Meher!
-
-I'm a passionate Python Developer from Bangalore. Welcome to my GitHub profile!
-
-## Technologies & Tools
-
-- **Languages**: Python, HTML5, CSS3, JavaScript
-- **Frameworks**: Bootstrap, Django
-- **Databases**: MySQL
-- **Tools**: Git, GitHub, Visual Studio Code, Coding
-
-## I’m currently learning...
-
-- Python Full-Stack Development
-- AI Tools
-
-## I'm looking to collaborate on...
-
-- Open-source projects related to Web Development or Game development (with Unity)
-- Building tools to simplify software development workflows
-- Exploring innovative solutions for continuous integration and delivery
-
-## Connect with me
-
-- [LinkedIn](https://www.linkedin.com/in/rakesh953)
-- [Hackerrank](https://www.hackerrank.com/profile/rakeshmeher953)
-
-## ⚡ Fun Facts
-
-- I love to code and explore new technologies
-- Enjoying a cup of coffee while coding is my favorite ritual ☕
-- Ask me about my latest coding challenge and I'll share the story
-
 ## Repositories
 
 Here are some of my public repositories:
