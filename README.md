@@ -1,22 +1,11 @@
-
 <!--
 **Rakesh Meher/Rakesh Meher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
 <!-- Your Name and Introduction --> 
 <h1 align="center">Hi there, I'm Rakesh Meher! 👋</h1>
 
-I'm a passionate Python Developer from Banglore. Welcome to my GitHub profile!
+I'm a passionate Python Developer from Bangalore. Welcome to my GitHub profile!
 
 <!-- Your Skills and Technologies -->
 ## 🔧 Technologies & Tools
@@ -25,30 +14,35 @@ I'm a passionate Python Developer from Banglore. Welcome to my GitHub profile!
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 - **Frameworks:**
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-  <!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
-  
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 - **Databases:**
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  <!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) -->
+  ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 - **Tools:**
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+  
   <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-
-
 
 <!-- What You're Currently Learning -->
 ## 🌱 I’m currently learning...
 - Python Full-Stack Development 🛠️
-- AI Tools 🤖
+- AI Tools and Machine Learning 🤖
+- Cloud Computing with AWS ☁️
 
 ## 👥 I'm looking to collaborate on...
-- Open-source projects related to Web Development or Game development(With Unity) 🌐🎮
+- Open-source projects related to Web Development or Game Development (with Unity) 🌐🎮
 - Building tools to simplify software development workflows ⚙️
 - Exploring innovative solutions for continuous integration and delivery 🚚
 
@@ -57,27 +51,23 @@ I'm a passionate Python Developer from Banglore. Welcome to my GitHub profile!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rakesh953-blue)](https://www.linkedin.com/in/rakesh953/)
 [![Gmail](https://img.shields.io/badge/Email-ContactMe-red)](mailto:rakeshmeher953@gmail.com)
 
-
-
-
 <!-- Fun Facts or Hobbies -->
 ## ⚡ Fun Facts
 - I love to code and explore new technologies 💻
-- Enjoying a cup of coffee while coding is my favourite ritual ☕
+- Enjoying a cup of coffee while coding is my favorite ritual ☕
 - Ask me about my latest coding challenge and I'll share the story 🤓
 
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rakesh953&show_icons=true&theme=radical)](https://github.com/Rakesh953)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rakesh953&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh953&layout=compact&theme=radical)](https://github.com/Rakesh953)
 
 <!-- Additional Information or Call to Action -->
 ## 🌟 Fun Fact
 Did you know coding is both an art and a science? 🎨🧪
 
 Feel free to explore my repositories and don't hesitate to reach out! Happy coding! 🚀
-
-
 
 ## Repositories
 
@@ -89,8 +79,6 @@ Here are some of my public repositories:
 4. [Python_Programs](https://github.com/Rakesh953/Python_Programs) - Python
 5. [Rakesh953](https://github.com/Rakesh953/Rakesh953)
 6. [Tic-Tac-Toe_Game](https://github.com/Rakesh953/Tic-Tac-Toe_Game) - JavaScript
-
-
 
 ## Django Learning Series
 
@@ -118,10 +106,4 @@ Here are the projects in my Django learning series:
 20. [Django_project20_joining_Model_dept_emp_inner_join](https://github.com/Rakesh953/Django_project20_joining_Model_dept_emp_inner_join)
 21. [Django_project21](https://github.com/Rakesh953/Django_project21)
 
-
-
 Feel free to explore my repositories and don't hesitate to reach out! Happy coding!
-
-Feel free to explore my repositories and don't hesitate to reach out! Happy coding!
-
-
