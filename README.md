@@ -95,7 +95,6 @@ Here are some of my public repositories:
 ## Django Learning Series
 
 Here are the projects in my Django learning series:
-
 1. [Django_01_First_Project](https://github.com/Rakesh953/Django_01_First_Project)
 2. [Django_Project_2_creating_multiple_view](https://github.com/Rakesh953/Django_Project_2_creating_multiple_view)
 3. [Django_project3](https://github.com/Rakesh953/Django_project3)
@@ -117,6 +116,7 @@ Here are the projects in my Django learning series:
 19. [Django_Project19_retrieving_Techniques](https://github.com/Rakesh953/Django_Project19_retrieving_Techniques)
 20. [Django_project20_joining_Model_dept_emp_inner_join](https://github.com/Rakesh953/Django_project20_joining_Model_dept_emp_inner_join)
 21. [Django_project21](https://github.com/Rakesh953/Django_project21)
+
 
 Feel free to explore my repositories and don't hesitate to reach out! Happy coding!
 
