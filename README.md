@@ -75,8 +75,7 @@ Here are some of my public repositories:
 2. [Internship-_WhatsApp-Web-Automation](https://github.com/Rakesh953/Internship-_WhatsApp-Web-Automation) - JavaScript
 3. [Cube_Runner_Game_Unity](https://github.com/Rakesh953/Cube_Runner_Game_Unity) - C#
 4. [Python_Programs](https://github.com/Rakesh953/Python_Programs) - Python
-5. [Rakesh953](https://github.com/Rakesh953/Rakesh953)
-6. [Tic-Tac-Toe_Game](https://github.com/Rakesh953/Tic-Tac-Toe_Game) - JavaScript
+5. [Tic-Tac-Toe_Game](https://github.com/Rakesh953/Tic-Tac-Toe_Game) - JavaScript
 
 ## Django Learning Series
 
