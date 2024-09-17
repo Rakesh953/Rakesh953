@@ -87,7 +87,7 @@ Here are the projects in my Django learning series:
 4. [Django_project4.1_Generic_URL_mapping](https://github.com/Rakesh953/Django_project4.1_Generic_URL_mapping)
 5. [Django_project5_creating_templates](https://github.com/Rakesh953/Django_project5_creating_templates)
 6. [Django_project6_multiple_app_multiple_view](https://github.com/Rakesh953/Django_project6_multiple_app_multiple_view)
-7. [Django_project7_jinja_printing_and_operational_tag]([https://github.com/Rakesh953/Django_project7](https://github.com/Rakesh953/Django_project7_jinja_printing_and_operational_tag))
+7. [Django_project7_jinja_printing_and_operational_tag](https://github.com/Rakesh953/Django_project7_jinja_printing_and_operational_tag)
 8. [Django_project8_Generic_URL_Navigation](https://github.com/Rakesh953/Django_project8_Generic_URL_Navigation)
 9. [Django_project9](https://github.com/Rakesh953/Django_project9)
 10. [Django_project10_staticfile_connection](https://github.com/Rakesh953/Django_project10_staticfile_connection)
