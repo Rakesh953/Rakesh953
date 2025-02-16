@@ -8,29 +8,70 @@
 I'm a passionate Python Developer from Bangalore. Welcome to my GitHub profile!
 
 <!-- Your Skills and Technologies -->
-## 🔧 Technologies & Tools
-- **Languages:**
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## 🔧 🚀 Technical Skills
+- **🛠️ DevOps & CI/CD:**
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=maven" height="40" alt="apachemaven logo"  />
+    <img width="12" />
+    <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
+    <img width="12" />
+    <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="terraform logo"  />
+  </div>
+
+- **🌐 Programming & Web Development:**
+  <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  </div>  
 
 
-- **Frameworks:**
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- **🗄️Database Management:**
+  <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  </div>
+  
+- **☁️ Cloud Technologies:**
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  </div>
 
-- **Databases:**
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-- **Tools:**
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+- **🐧 Operating Systems & Scripting:**
+    <div align="left">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+      <img width="12" />
+      <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
+      <img width="12" />
+      <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
+    </div>
+    
+- **🖥️ Tools & IDEs:**
+    <div align="left">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+      <img width="12" />
+      <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="40" alt="adobeillustrator logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
+    </div>
+    
   
   <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
