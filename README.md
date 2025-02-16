@@ -36,8 +36,9 @@ I'm a passionate Python Developer from Bangalore. Welcome to my GitHub profile!
 
 <!-- What You're Currently Learning -->
 ## 🌱 I’m currently learning...
+- DevOps && AWS
 - Python Full-Stack Development 🛠️
-- AI Tools and Machine Learning 🤖
+- AI Tools 🤖
 
 ## 👥 I'm looking to collaborate on...
 - Open-source projects related to Web Development 
