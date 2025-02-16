@@ -5,7 +5,7 @@
 <!-- Your Name and Introduction --> 
 <h1 align="center">Hi there, I'm Rakesh Meher! 👋</h1>
 
-I'm a passionate Python Developer from Bangalore. Welcome to my GitHub profile!
+I'm a passionate DevOps Engineer from Bangalore. Welcome to my GitHub profile!
 
 <!-- Your Skills and Technologies -->
 ## 🔧 🚀 Technical Skills
